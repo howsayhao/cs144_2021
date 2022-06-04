@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/media/sf_mylinux/CS144/cs144-lab4'
+make: Leaving directory '/media/sf_mylinux/CS144/cs144-lab4'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
